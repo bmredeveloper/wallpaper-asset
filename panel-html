@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>BMRE Login Panel</title>
+    <style>
+      html, body {
+        margin: 0;
+        height: 100%;
+        background-color: #000;
+      }
+      body {
+        background: url('bmre-wallpaper.jpeg') no-repeat center center fixed;
+        background-size: cover;
+      }
+    </style>
+  </head>
+  <body></body>
+</html>
